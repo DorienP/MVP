@@ -1,8 +1,12 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import StakingCalculator from './Components/StakingCalculator'
+import React, {useState, useRef} from "react";
 
 export default function Home() {
+
+  const [currencies, setCurrencies] = useState([]);
+  
   return (
     <div className={styles.container}>
       <Head>
