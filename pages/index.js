@@ -6,6 +6,9 @@ import React, {useState, useRef} from "react";
 export default function Home() {
 
   const [currencies, setCurrencies] = useState([]);
+  const [pair, setPair] = useState('');
+  const [price, setPrice] = useState('0.00');
+  
   
   return (
     <div className={styles.container}>
