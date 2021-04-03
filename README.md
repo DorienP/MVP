@@ -31,7 +31,7 @@ Once the project moves into development, the press release can be used as a touc
 ## Most web user interfaces have too much going on but if you want close rendering to real time you're gonna need less data transmitting. this website's foundational focus is speed. Once that has been establish this website will be adding more seperated designs but with speed always in mind. ##
   > Describe how your product elegantly solves the problem.
 
-## Free information at a subscription rate  ##
+## Subscription rated information at 0 dollar cost  ##
   > A quote from a spokesperson in your company.
 
 ## Just point and click ##
